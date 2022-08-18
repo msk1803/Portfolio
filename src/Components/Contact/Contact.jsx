@@ -33,14 +33,14 @@ e.target.reset()
         <article className="contact__option">
           <ImWhatsapp/>
          <h4>Whatsapp</h4>
-         <h5>shubham.kumar1997@gmail.com</h5>
+         
          <a href="https://wa.me/7979942757" target="__blank">Send a message</a>
         </article>
         <article className="contact__option">
           <ImWhatsapp/>
-         <h4>Whatsapp</h4>
-         <h5>shubham.kumar1997@gmail.com</h5>
-         <a href="https://wa.me/7979942757" target="__blank">Send a message</a>
+         <h4>Facebook</h4>
+         <h5>Shubham Kumar</h5>
+         <a href="https://m.me/profile.php?id=100002003742112" target="__blank">Send a message</a>
         </article>
       </div>
       <form ref={form} onSubmit={sendEmail}>

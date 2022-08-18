@@ -35,7 +35,7 @@ const Experience = () => {
             <BsFillPatchCheckFill/>
            <div>
            <h4>Bootstarp</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'>Intermediate</small>
            </div>
           </article> <article className='experience__details'>
             <BsFillPatchCheckFill/>
@@ -55,32 +55,32 @@ const Experience = () => {
             <BsFillPatchCheckFill/>
             <div>
             <h4>Node JS</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'>Beginner</small>
             </div>
           </article>
           <article className='experience__details'>
             <BsFillPatchCheckFill/>
             <div>
             <h4>MangoDB</h4>
-            <small className='text-light'>Intermediate</small>
+            <small className='text-light'>Beginner</small>
             </div>
           </article> <article className='experience__details'>
             <BsFillPatchCheckFill/>
            <div>
            <h4>PHP</h4>
-            <small className='text-light'>Intermediate</small>
+            <small className='text-light'>Beginner</small>
            </div>
           </article> <article className='experience__details'>
             <BsFillPatchCheckFill/>
             <div>
             <h4>MySQL</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'>Beginner</small>
             </div>
           </article> <article className='experience__details'>
             <BsFillPatchCheckFill/>
             <div>
             <h4>Python</h4>
-            <small className='text-light'>Intermediate</small>
+            <small className='text-light'>Beginner</small>
             </div>
           </article>
         </div>

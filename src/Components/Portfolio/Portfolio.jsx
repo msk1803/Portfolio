@@ -56,7 +56,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
           <img src={IMG5} alt="projectPic"/>
           </div>
-          <h3>Portfolio</h3>
+          <h3>My Portfolio</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/msk1803/Portfolio" target="__blank" className='btn'>GitHub</a>
           <a href="https://portfolio-mu-pink.vercel.app/" target="__blank" className='btn btn-primary'>Live Demo</a>
@@ -66,7 +66,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
           <img src={IMG6} alt="projectPic"/>
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>E-Commerce Website</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/msk1803/CryptoTracker" target="__blank" className='btn'>GitHub</a>
           <a href="https://crypto-tracker-five-sooty.vercel.app/" target="__blank" className='btn btn-primary'>Live Demo</a>
