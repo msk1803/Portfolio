@@ -2,6 +2,7 @@ import React from 'react';
 import './Contact.css'
 import {AiOutlineMail} from 'react-icons/ai';
 import {ImWhatsapp} from 'react-icons/im';
+import {FaFacebookMessenger} from 'react-icons/fa'
 import  { useRef } from 'react';
 import emailjs from 'emailjs-com'
 const Contact = () => {
@@ -37,7 +38,7 @@ e.target.reset()
          <a href="https://wa.me/7979942757" target="__blank">Send a message</a>
         </article>
         <article className="contact__option">
-          <ImWhatsapp/>
+          <FaFacebookMessenger/>
          <h4>Facebook</h4>
          <h5>Shubham Kumar</h5>
          <a href="https://m.me/profile.php?id=100002003742112" target="__blank">Send a message</a>
