@@ -39,7 +39,7 @@ const Portfolio = () => {
           <h3>Calculator</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/msk1803/JS-Mini-Project---1---JavaScript-Mini-Project---n7it1k3bl8mm" target="__blank" className='btn'>GitHub</a>
-          <a href="https://628a6310f4e87b7e4375f3eb--papaya-dolphin-a2a3a2.netlify.app/" target="__blank" className='btn btn-primary'>Live Demo</a>
+          <a href="https://630775aaaba8452179a3f38b--lucky-puffpuff-cd7d09.netlify.app/" target="__blank" className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
